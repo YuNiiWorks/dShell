@@ -111,26 +111,6 @@ namespace Shell
                     Console.WriteLine("\tType 'cp' to copy a file.");
                     Console.WriteLine("\tType 'cat' to view the contents of a file.\r\n");
 
-                    Console.WriteLine("\tType 'ip' to view your IP address.");
-                    Console.WriteLine("\tType 'host' to view your hostname.");
-                    Console.WriteLine("\tType 'user' to view your username.");
-                    Console.WriteLine("\tType 'date' to view the current date.");
-                    Console.WriteLine("\tType 'time' to view the current time.");
-                    Console.WriteLine("\tType 'os' to view your operating system.");
-                    Console.WriteLine("\tType 'version' to view your operating system version.");
-                    Console.WriteLine("\tType 'arch' to view your operating system architecture.\r\n");
-
-                    Console.WriteLine("\tType 'run' to run a program.");
-                    Console.WriteLine("\tType 'kill' to kill a program.");
-                    Console.WriteLine("\tType 'restart' to restart a program.\r\n");
-
-                    Console.WriteLine("\tType 'shutdown' to shutdown your computer.");
-                    Console.WriteLine("\tType 'reboot' to reboot your computer.");
-                    Console.WriteLine("\tType 'sleep' to sleep your computer.");
-                    Console.WriteLine("\tType 'hibernate' to hibernate your computer.");
-                    Console.WriteLine("\tType 'lock' to lock your computer.");
-                    Console.WriteLine("\tType 'logoff' to logoff your computer.\r\n");
-
                     Console.ForegroundColor = ConsoleColor.White;
                     break;
 
