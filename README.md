@@ -17,11 +17,11 @@ A basic Command Prompt stand-in written in C#. This project is specifically writ
 ## Install
 ### 1. Downloading the Release.
 - Go to the 'Release' tab and download the latest version of dShell.
-- Save the .exe file in your Windows folder (C:\Windows\system32) or any folder you can remember, like Documents.
+- Save the .exe file in your Windows folder ('C:\Windows\System32') or any folder you can remember, like Documents.
 
 ### 2. Adding dShell.exe to PATH.
 - Edit your PATH Enviroment Variable.
-- Add a new path. Make sure you enter the full path including the dShell.exe (e.g: 'C:\Windows\system32\dShell.exe').
+- Add a new path. Make sure you enter the full path including the dShell.exe (e.g: 'C:\Windows\System32\dShell.exe').
 
 ### 3. Restart your shell.
 - Restart your command prompt or windows powershell window. You should be able to run dShell by typing the 'dShell' command.
