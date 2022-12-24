@@ -24,7 +24,7 @@ namespace Shell
             path = Directory.GetCurrentDirectory();
             Console.Title = "Shell";
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine("YuNiiShell >> " + path);
+            Console.WriteLine("dShell >> " + path);
             Console.WriteLine("Type 'help' for a list of commands.\r\n");
             Console.ForegroundColor = ConsoleColor.White;
 
@@ -35,7 +35,7 @@ namespace Shell
         {
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine("YuNiiShell >> " + path);
+            Console.WriteLine("dShell >> " + path);
             Console.WriteLine("Type 'help' for a list of commands.\r\n");
             Console.ForegroundColor = ConsoleColor.White;
 
