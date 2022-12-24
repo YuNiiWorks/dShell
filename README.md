@@ -1,4 +1,4 @@
-# dShell
+![logo](https://github.com/YuNiiWorks/dShell/blob/main/img/dShell_logo_png.png)
 A basic Command Prompt stand-in written in C#. This project is specifically written by Benjamin "YuNii" Henrich.
 
 ---
