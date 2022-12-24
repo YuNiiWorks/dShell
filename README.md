@@ -9,7 +9,6 @@ A basic Command Prompt stand-in written in C#. This project is specifically writ
     + [2. Adding dShell.exe to PATH.](#2-adding-dshellexe-to-path)
     + [3. Restart your shell.](#3-restart-your-shell)
     + [(OPTIONAL) Replacing cmd.](#-optional--replacing-cmd)
-    + [Should you run into any problems during the install process, or while using dShell, write an [E-Mail to our support.](mailto://support@yuniiworks.de)](#should-you-run-into-any-problems-during-the-install-process--or-while-using-dshell--write-an--e-mail-to-our-support--mailto---support-yuniiworksde-)
   * [Command Syntax Documantation](#command-syntax-documantation)
   * [Changelog & Roadmap](#changelog---roadmap)
     + [Planned for the next Release](#planned-for-the-next-release)
